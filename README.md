@@ -1,7 +1,6 @@
 # Task and Project Management Tool
 
-Capstone Project — 40-Hours Java Backend Development using Spring Boot
-Pune Institute of Computer Technology, Department of Information Technology
+Capstone Project — 40-Hours Java Backend Development using Spring Boot PICT
 
 ---
 
